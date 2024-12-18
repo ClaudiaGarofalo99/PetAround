@@ -82,7 +82,7 @@ struct DogParkView: View {
                             Image(systemName: "arrow.uturn.left")
                                 .foregroundColor(.white)
                                 .font(.system(size: 20))
-                            Text("Vai al luogo")
+                            Text("Go to the place")
                                 .foregroundColor(.white)
                                 .font(.system(size: 10))
                         }
@@ -110,7 +110,7 @@ struct DogParkView: View {
                             Image(systemName: "clock.fill")
                                 .font(.system(size: 20))
                                 .foregroundColor(.accentColor)
-                            Text("Aperto")
+                            Text("Open")
                                 .font(.system(size: 10))
                                 .foregroundColor(.accentColor)
                         }
@@ -124,7 +124,7 @@ struct DogParkView: View {
                             Image(systemName: "safari.fill")
                                 .font(.system(size: 20))
                                 .foregroundColor(.accentColor)
-                            Text("Sito Web")
+                            Text("Web Site")
                                 .font(.system(size: 10))
                                 .foregroundColor(.accentColor)
                         }

@@ -81,7 +81,7 @@ struct Location2: View {
                             Image(systemName: "arrow.uturn.left")
                                 .foregroundColor(.white)
                                 .font(.system(size: 20))
-                            Text("Vai al luogo")
+                            Text("Go to the place")
                                 .foregroundColor(.white)
                                 .font(.system(size: 10))
                         }
@@ -109,7 +109,7 @@ struct Location2: View {
                             Image(systemName: "calendar")
                                 .font(.system(size: 20))
                                 .foregroundColor(.accentColor)
-                            Text("prenota")
+                            Text("Book")
                                 .font(.system(size: 10))
                                 .foregroundColor(.accentColor)
                         }
@@ -123,7 +123,7 @@ struct Location2: View {
                             Image(systemName: "safari.fill")
                                 .font(.system(size: 20))
                                 .foregroundColor(.accentColor)
-                            Text("Sito Web")
+                            Text("Web Site")
                                 .font(.system(size: 10))
                                 .foregroundColor(.accentColor)
                         }

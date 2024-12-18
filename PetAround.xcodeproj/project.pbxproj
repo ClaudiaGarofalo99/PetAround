@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 16CB52D92D083BD3009ECB13 /* Build configuration list for PBXProject "Claudia_App" */;
+			buildConfigurationList = 16CB52D92D083BD3009ECB13 /* Build configuration list for PBXProject "PetAround" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -251,7 +251,6 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "PetAround/Preview Content\"";
 				DEVELOPMENT_TEAM = 6MQ7HUX2G4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -270,7 +269,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.academy.Claudia-App";
+				PRODUCT_BUNDLE_IDENTIFIER = com.academy.PetAround;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -285,7 +284,6 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "PetAround/Preview Content\"";
 				DEVELOPMENT_TEAM = 6MQ7HUX2G4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -304,7 +302,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.academy.Claudia-App";
+				PRODUCT_BUNDLE_IDENTIFIER = com.academy.PetAround;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -315,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		16CB52D92D083BD3009ECB13 /* Build configuration list for PBXProject "Claudia_App" */ = {
+		16CB52D92D083BD3009ECB13 /* Build configuration list for PBXProject "PetAround" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				16CB52EA2D083BD4009ECB13 /* Debug */,
