@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		16CB52E02D083BD3009ECB13 /* Claudia_App */ = {
+		16CB52E02D083BD3009ECB13 /* PetAround */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Claudia_App;
+			path = PetAround;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		16CB52D52D083BD3009ECB13 = {
 			isa = PBXGroup;
 			children = (
-				16CB52E02D083BD3009ECB13 /* Claudia_App */,
+				16CB52E02D083BD3009ECB13 /* PetAround */,
 				16CB52DF2D083BD3009ECB13 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				16CB52E02D083BD3009ECB13 /* Claudia_App */,
+				16CB52E02D083BD3009ECB13 /* PetAround */,
 			);
 			name = PetAround;
 			packageProductDependencies = (
@@ -251,7 +251,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Claudia_App/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "PetAround/Preview Content\"";
 				DEVELOPMENT_TEAM = 6MQ7HUX2G4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -285,7 +285,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Claudia_App/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "PetAround/Preview Content\"";
 				DEVELOPMENT_TEAM = 6MQ7HUX2G4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
